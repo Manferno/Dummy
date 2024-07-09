@@ -1,7 +1,9 @@
 <?php
     /* Template Name: Home */
     get_header();
+    echo 'estas no son hoas de yamal';
 ?>
+
 
  
 <section>
