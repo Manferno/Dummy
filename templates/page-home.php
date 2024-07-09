@@ -4,23 +4,6 @@
 ?>
 
  
-
-   
-<section>
-
-    <div class="video-container">
-        <iframe src="https://www.youtube.com/embed/IJ_P1i4F7y4?autoplay=1&mute=1&loop=1&playlist=IJ_P1i4F7y4&controls=0&showinfo=0&rel=0" frameborder="1" allowfullscreen></iframe>
-    </div>
-
-    <div class="content">
-        <h1>Bienvenido</h1>
-        <p>Este es un video de fondo.</p>
-    </div>
-</section>
-
-   
-
-
 <section>
 
     <div class="container">
